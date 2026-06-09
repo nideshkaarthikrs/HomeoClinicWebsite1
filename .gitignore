@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+.env.local
+.DS_Store
+CLAUDE.MD
+.claude/
+Vijaya Homeo Care Profile2.pdf
